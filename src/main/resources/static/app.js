@@ -1,5 +1,5 @@
 var ws;
-ws = new WebSocket('ws://localhost:8080/name');
+ws = new WebSocket('https://simplewebapp7.herokuapp.com/name');
 ws.onmessage = function (data) {
     showGreeting(data.data);
 };
