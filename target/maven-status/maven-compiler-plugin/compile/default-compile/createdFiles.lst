@@ -1,0 +1,5 @@
+com\devglan\config\WebSocketConfig.class
+com\devglan\config\Application.class
+com\devglan\config\SocketHandler.class
+controlador\Post.class
+com\devglan\config\SocketHandler$1.class
